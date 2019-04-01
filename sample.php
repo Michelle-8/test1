@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<?php echo "Mich" ?>
+
 <!DOCTYPE html>
 <html>
 <head>
