@@ -1,5 +1,5 @@
-<?php echo "Mich" ?>
-
+<?php echo "Mark Gio" ?>
+<!DOCTYPE html>
 <!DOCTYPE html>
 <html>
 <head>
