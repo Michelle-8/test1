@@ -1,4 +1,4 @@
-<?php echo "Mark Gio " ?>
+<?php echo "Mark Gio" ?>
 <!DOCTYPE html>
 <!DOCTYPE html>
 <html>
